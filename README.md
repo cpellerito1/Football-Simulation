@@ -1,2 +1,3 @@
 # Football-Simulation
-Football simulation coded using Java
+This program is a football simulation coded using Java. It simulates a football game bewtween 2 teams. It works by assigning each player a "skill" value. This skill value is
+randomly generated each play. The better players will have a higher potetial skill value and a lower potetnial floor. Each play, players would go head to head against the player on the other team they would usually matchup against. I.E. wide reciever vs. corner back. Whichever player had the higher skill value would win that play and which team had mroe skill wins would win that play. The number of head to head wins a team got per play dicataed how effective that play would be for them. For example, if the offense went 11-0 the play would result in a touchdown but if the defense went 11-0 it would result in a turnover. There is also an MVP awarded after the game which goes to the player with the most head to head wins.
